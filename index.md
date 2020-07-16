@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+### ChiGe的个人博客
 You can use the [editor on GitHub](https://github.com/xiaowangc/chige-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 一级标题
+## 二级标题
+### 三级标题
 
 - Bulleted
 - List
@@ -24,6 +23,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+``` bash
+这个是bash框
+$ git pull //拉取
+```
+
+```markdown
+这个是markdown编辑文本框
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
